@@ -15,10 +15,7 @@
     "start": "webpack --watch",
     "build": "webpack"
   },
-  "author": {
-    "name": "Brian Ruff",
-    "email": "briananthonyruff@gmail.com"
-  },
+  "author": "Brian Ruff <briananthonyruff@gmail.com>",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
@@ -28,5 +25,19 @@
     "babel-preset-env": "^1.5.1",
     "webpack": "^2.7.0",
     "webpack-cli": "^3.3.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianARuff/react-lazy-load-it.git"
+  },
+  "keywords": [
+    "react-lazy-load",
+    "lazy-load",
+    "lazy-lazy-load"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianARuff/react-lazy-load-it/issues"
+  },
+  "homepage": "https://github.com/BrianARuff/react-lazy-load-it#readme"
 }
